@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL maintainer Late Lee(li@latelee.org)
+LABEL maintainer paulakisscat(paulakisscat@gmail.com)
 
 RUN apt-get update && \
     apt-get install -y \
